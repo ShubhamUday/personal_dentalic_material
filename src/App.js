@@ -125,7 +125,7 @@ export default function App() {
                 ? brandDark
                 : brandWhite
             }
-            brandName="Material Dashboard 2"
+            brandName="Dentalic"
             routes={routes}
             onMouseEnter={handleOnMouseEnter}
             onMouseLeave={handleOnMouseLeave}
